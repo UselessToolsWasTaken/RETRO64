@@ -1,0 +1,4 @@
+SET byte 0 5
+SET byte 1 7
+ADD 0 1
+OUT 0
